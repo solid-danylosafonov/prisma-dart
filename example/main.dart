@@ -1,4 +1,4 @@
-import 'dart:io';
+import 'package:universal_io/io.dart';
 
 import 'package:orm/logger.dart';
 import 'package:prisma_dart_example/prisma_client.dart';

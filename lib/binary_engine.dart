@@ -1,7 +1,7 @@
 library prisma.engine.binary;
 
 import 'dart:convert' as convert;
-import 'dart:io';
+import 'package:universal_io/io.dart';
 
 import 'package:path/path.dart' as path;
 import 'package:http/http.dart' as http;

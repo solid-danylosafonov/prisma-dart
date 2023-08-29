@@ -1,4 +1,4 @@
-import 'dart:io';
+import 'package:universal_io/io.dart';
 import 'dart:convert' as convert;
 
 import 'package:path/path.dart';
